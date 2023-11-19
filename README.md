@@ -3,7 +3,7 @@
 
 
 ## Introduction
-[![Banner](https://raw.githubusercontent.com/bankoleridwan/Renewable-Energy-Forecast/main/img/banner.jpg)](https://unsplash.com/photos/solar-panels-on-green-field-513dBrMJ_5w)
+[![Banner](https://github.com/bankoleridwan/Climate-Sentiment-Classifier/blob/main/img/banner.jpg)](https://unsplash.com/photos/silhouette-of-trees-during-sunset-kbTp7dBzHyY)
 
 
 A climate-based products vendor seeks to gauge public perception of climate change to refine market research efforts and gain insights into consumer sentiment. To address this, we developed and deployed a machine-learning model capable of predicting individuals' beliefs on climate change based on their tweets. The model classifies tweets into four categories: Pro (supporting man-made climate change), Anti (opposing man-made climate change), Neutral (neither supporting nor opposing), and News (providing factual information about climate change).

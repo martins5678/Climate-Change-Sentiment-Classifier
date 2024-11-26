@@ -1,9 +1,9 @@
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ridwanbankole.github.io/)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bankoleridwan/)
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://martins5678.github.io/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/martin-i-434184228)
 
 
 ## Introduction
-[![Banner](https://raw.githubusercontent.com/ridwanbankole/Climate-Change-Sentiment-Classifier/main/img/banner.jpg)](https://unsplash.com/photos/people-gathered-outside-buildings-holding-climate-justice-now-signage-dYZumbs8f_E)
+[![Banner](https://raw.githubusercontent.com/martins5678/Climate-Change-Sentiment-Classifier/main/img/banner.jpg)](https://unsplash.com/photos/people-gathered-outside-buildings-holding-climate-justice-now-signage-dYZumbs8f_E)
 
 
 A climate-based products vendor seeks to gauge public perception of climate change to refine market research efforts and gain insights into consumer sentiment. To address this, we developed and deployed a machine-learning model capable of predicting individuals' beliefs on climate change based on their tweets. The model classifies tweets into four categories: Pro (supporting man-made climate change), Anti (opposing man-made climate change), Neutral (neither supporting nor opposing), and News (providing factual information about climate change).
@@ -41,5 +41,5 @@ Here is a high-level overview of my contributions:
 * Model deployment of the machine learning app: Deploying the application using Streamlit and AWS EC2 instance.
 
 
-Ready to unlock the full potential of your data? I'm excited to collaborate and help your business thrive through data-driven insights. [Get in touch!](https://ridwanbankole.github.io/#contact:~:text=My%20Resume-,Contact%20Me,-Ready%20to%20unlock)
+Ready to unlock the full potential of your data? I'm excited to collaborate and help your business thrive through data-driven insights. [Get in touch!](https://martins5678.github.io/#contact:~:text=My%20Resume-,Contact%20Me,-Ready%20to%20unlock)
 
